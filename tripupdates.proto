@@ -1,18 +1,18 @@
 header {
   gtfs_realtime_version: "2.0"
   incrementality: FULL_DATASET
-  timestamp: 1684416164
+  timestamp: 1685014874
 }
 entity {
   id: "1"
   trip_update {
     trip {
-      trip_id: "22002ILA_0203_9"
-      start_time: "13:31:40"
+      trip_id: "22002ILA_0204_9"
+      start_time: "13:49:40"
       start_date: "20230525"
       schedule_relationship: SCHEDULED
       route_id: "2"
-      direction_id: 0
+      direction_id: 1
     }
     stop_time_update {
       stop_sequence: 38
