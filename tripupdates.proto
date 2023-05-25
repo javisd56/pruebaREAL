@@ -17,17 +17,17 @@ entity {
     stop_time_update {
       stop_sequence: 38
       arrival {
-        delay: 300
+        delay: 900
       }
       departure {
-        delay: 600
+        delay: 900
       }
     }
     stop_time_update {
       stop_sequence: 39
       stop_id: 83713
       arrival {
-        delay: 180
+        delay: 900
       }
     }   
   }
