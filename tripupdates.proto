@@ -7,15 +7,16 @@ entity {
   id: "1"
   trip_update {
     trip {
-      trip_id: "22001ILA_0102_7"
-      start_time: "12:56:47"
+      trip_id: "22002ILA_0203_9"
+      start_time: "13:31:40"
       start_date: "20230525"
       schedule_relationship: SCHEDULED
-      route_id: "1"
+      route_id: "2"
       direction_id: 0
     }
     stop_time_update {
       stop_sequence: 38
+      stop_id: 9729
       arrival {
         delay: 900
       }
@@ -25,7 +26,7 @@ entity {
     }
     stop_time_update {
       stop_sequence: 39
-      stop_id: 83713
+      stop_id: 9985
       arrival {
         delay: 900
       }
