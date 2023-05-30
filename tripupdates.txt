@@ -1,76 +1,76 @@
 gtfs_realtime_version: "2.0"
 incrementality: FULL_DATASET
-timestamp: 1685459069
-[id: "trip:22012ILB_1201_7"
+timestamp: 1685460098
+[id: "trip:22012ILB_1212_3"
 trip_update {
   trip {
-    trip_id: "22012ILB_1201_7"
+    trip_id: "22012ILB_1212_3"
     route_id: "12"
   }
   stop_time_update {
     stop_sequence: 56
     arrival {
-      time: 1685460329
+      time: 1685462138
     }
     departure {
-      time: 1685460329
+      time: 1685462138
     }
     stop_id: "77569"
   }
   stop_time_update {
     stop_sequence: 57
     arrival {
-      time: 1685460509
+      time: 1685462258
     }
     departure {
-      time: 1685460509
+      time: 1685462258
     }
     stop_id: "77825"
   }
   stop_time_update {
     stop_sequence: 58
     arrival {
-      time: 1685460629
+      time: 1685462378
     }
     departure {
-      time: 1685460629
+      time: 1685462378
     }
     stop_id: "78081"
   }
 }
-, id: "trip:22012ILB_1201_8"
+, id: "trip:22012ILB_1212_4"
 trip_update {
   trip {
-    trip_id: "22012ILB_1201_8"
+    trip_id: "22012ILB_1212_4"
     route_id: "12"
   }
   stop_time_update {
     stop_sequence: 1
     arrival {
-      time: 1685460809
+      time: 1685462438
     }
     departure {
-      time: 1685460809
+      time: 1685462438
     }
     stop_id: "78081"
   }
   stop_time_update {
     stop_sequence: 2
     arrival {
-      time: 1685460929
+      time: 1685462558
     }
     departure {
-      time: 1685460929
+      time: 1685462558
     }
     stop_id: "78337"
   }
   stop_time_update {
     stop_sequence: 3
     arrival {
-      time: 1685461169
+      time: 1685462678
     }
     departure {
-      time: 1685461169
+      time: 1685462678
     }
     stop_id: "78593"
   }
