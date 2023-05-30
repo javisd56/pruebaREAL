@@ -1,19 +1,19 @@
 gtfs_realtime_version: "2.0"
 incrementality: FULL_DATASET
-timestamp: 1685444912
+timestamp: 1685452207
 [id: "1"
 trip_update {
   trip {
-    trip_id: "22012ILB_1201_5"
+    trip_id: "22012ILB_1203_6"
     route_id: "12"
   }
   stop_time_update {
     stop_sequence: 58
     arrival {
-      delay: 1000
+      time: 1685453432
     }
     departure {
-      delay: 1000
+      time: 1685453432
     }
     stop_id: 78081
   }
