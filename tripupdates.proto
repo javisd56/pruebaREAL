@@ -4,28 +4,38 @@ timestamp: 1685436788
 [id: "1"
 trip_update {
   trip {
-    trip_id: "22001ILA_0102_7"
-    route_id: "1"
+    trip_id: "22012ILB_1203_5"
+    route_id: "12"
   }
   stop_time_update {
-    stop_sequence: 38
+    stop_sequence: 16
     arrival {
       delay: 300
     }
     departure {
       delay: 300
     }
-    stop_id: 83713
+    stop_id: 2817
   }
   stop_time_update {
-    stop_sequence: 39
+    stop_sequence: 17
     arrival {
       delay: 300
     }
     departure {
       delay: 300
     }
-    stop_id: 83713
+    stop_id: 3073
+  }
+  stop_time_update {
+    stop_sequence: 18
+    arrival {
+      delay: 300
+    }
+    departure {
+      delay: 300
+    }
+    stop_id: 3329
   }
 }
 ]
