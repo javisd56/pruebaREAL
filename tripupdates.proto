@@ -1,35 +1,31 @@
-header {
-  gtfs_realtime_version: "2.0"
-  incrementality: FULL_DATASET
-  timestamp: 1685014874
-}
-entity {
-  id: "1"
-  trip_update {
-    trip {
-      trip_id: "22002ILA_0204_9"
-      start_time: "13:49:40"
-      start_date: "20230525"
-      schedule_relationship: SCHEDULED
-      route_id: "2"
-      direction_id: 1
+gtfs_realtime_version: "2.0"
+incrementality: FULL_DATASET
+timestamp: 1685436788
+[id: "1"
+trip_update {
+  trip {
+    trip_id: "22001ILA_0102_7"
+    route_id: "1"
+  }
+  stop_time_update {
+    stop_sequence: 38
+    arrival {
+      delay: 300
     }
-    stop_time_update {
-      stop_sequence: 38
-      stop_id: 9729
-      arrival {
-        delay: 900
-      }
-      departure {
-        delay: 900
-      }
+    departure {
+      delay: 300
     }
-    stop_time_update {
-      stop_sequence: 39
-      stop_id: 9985
-      arrival {
-        delay: 900
-      }
-    }   
+    stop_id: 83713
+  }
+  stop_time_update {
+    stop_sequence: 39
+    arrival {
+      delay: 300
+    }
+    departure {
+      delay: 300
+    }
+    stop_id: 83713
   }
 }
+]
