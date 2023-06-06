@@ -1,0 +1,49 @@
+{
+    "PublicEstimation": [
+        {
+            "line": "12",
+            "vh_first": {
+                "cabecera": "False",
+                "destino": "CARREFOUR",
+                "meters": 131,
+                "seconds": 21
+            },
+            "vh_second": {
+                "cabecera": "False",
+                "destino": "CARREFOUR",
+                "meters": 3792,
+                "seconds": 910
+            }
+        },
+        {
+            "line": "24C1",
+            "vh_first": {
+                "cabecera": "False",
+                "destino": "PCTCAN",
+                "meters": 662,
+                "seconds": 92
+            },
+            "vh_second": {
+                "cabecera": "False",
+                "destino": "PCTCAN",
+                "meters": 5567,
+                "seconds": 1140
+            }
+        },
+        {
+            "line": "24C2",
+            "vh_first": {
+                "cabecera": "False",
+                "destino": "PCTCAN",
+                "meters": 975,
+                "seconds": 128
+            },
+            "vh_second": {
+                "cabecera": "False",
+                "destino": "PCTCAN",
+                "meters": 3046,
+                "seconds": 587
+            }
+        }
+    ]
+}
